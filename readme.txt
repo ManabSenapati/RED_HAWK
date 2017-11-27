@@ -1,3 +1,0 @@
-//This is a powerfull hacking tool
-///This application source distributed by ManabJB RED_HAWK Linux...
-#github.com/manabsenapati
