@@ -57,4 +57,4 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 #Type any website you want penetrations testing...
 
-#Follow Me On My http://instragram.com/manabjb
+#Follow Me On My http://instagram.com/manabjb
